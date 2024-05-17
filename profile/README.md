@@ -8,7 +8,7 @@ Solutioo365 is dedicated to delivering high-quality software solutions within th
 
 ## Repositories
 
-Most of our work here is in private repositorys, since it will probably be used on the AppSource Marketplace for BusinessClients, however cost-free apps or code-examples will be listed here soon.
+Most of our work here is in private repositorys, since it will probably be used on the AppSource marketplace for business clients, however open-source apps or code-examples will be listed here soon.
 
 ## Members
 
